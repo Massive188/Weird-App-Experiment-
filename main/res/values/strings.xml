@@ -1,0 +1,24 @@
+<resources>
+    <string name="Welcome">Welcome to Your Name App</string>
+    <string name="goWeather">Convert\nTemp</string>
+    <string name="goTicTacToe">Tic Tac Toe</string>
+    <string name="goInfo">Info</string>
+    <string name="goMusic">Favorite\nSong</string>
+    <string name="goTakePic">Take\nPicture</string>
+    <string name="goDraw">My\nDrawing</string>
+    <string name="informationTitle">Your information</string>
+    <string name="favoriteSeason">What is your favorite season</string>
+    <string name="favoriteTemp">What is your favorite temperature</string>
+    <string name="allergies">Do you have allergies</string>
+    <string name="app_name" />
+    <string name="message_label">Player X\'s turn</string>
+    <string name="new_game_button">New Game</string>
+
+    <string-array name="seasons">
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Fall</item>
+        <item>Winter</item>
+    </string-array>
+
+</resources>
